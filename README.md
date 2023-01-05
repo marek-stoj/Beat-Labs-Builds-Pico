@@ -1,4 +1,4 @@
-# Beat Labs Builds (for Pico headsets)
+# Beat Labs Builds (for Pico)
 
 Go to [Releases](https://github.com/marek-stoj/Beat-Labs-Builds-Pico/releases) to download the game directly (APK).
 
