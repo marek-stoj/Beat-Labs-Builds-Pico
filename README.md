@@ -4,6 +4,8 @@ Go to [Releases](https://github.com/marek-stoj/Beat-Labs-Builds-Pico/releases) t
 
 Or [install the game from SideQuest](https://sidequestvr.com/app/12483/beat-labs-for-pico).
 
+_NOTE: Builds for Oculus Quest are in a different repository: [Beat-Labs-Builds](https://github.com/marek-stoj/Beat-Labs-Builds)._
+
 ## Links
 
 - [Project Home Page](https://www.beatlabs.dev/)
